@@ -1,0 +1,11 @@
+ tabulations && space  in the begginning of the line 
+
+.xpm at the end of the texture path
+
+number of paramters 
+
+NOo
+
+C 50,80,255,55
+
+missing parameter || unwanted keys 

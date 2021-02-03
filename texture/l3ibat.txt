@@ -1,0 +1,35 @@
+1- Check paramètres (tex - 2 R -3 ..)
+2-double tex
+3-check if missing elements
+4- No khawya bohdha
+5-check after map
+6-check forbidden functions
+7- Check ashom
+8- Check N s w E
+7 - check double n
+8- check reso 2560-1400
+9-exit button harm i
+10-check f kbira w fsghira. 
+11-check .xpm khawi
+12-check leaks 
+13-check main
+14-check fenetre name 
+15-checn n fin
+16- check smite errors 
+17-check after map
+18-check error names
+19-check double biblio .h 
+20- check tmchi jennb 
+21- check smia map
+22 - check error in fd .cub main
+23- check ./aout in makefile 
+24- check make bonus w make 3adya 
+25- check screen name
+26- Check 4colors 
+27- Check ./ in path 
+28- Check lengthmax map 
+29- Check missing map 
+30- check buffer size 
+31- check -wall -wextra -werror 
+32 - check files before push — 
+33 - check the dam wall —
